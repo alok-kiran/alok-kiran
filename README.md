@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alok-kiran
-- 👀 I’m interested in hybrid mobile development 
-- 🌱 I’m currently learning Graph QL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile development 
 - 📫 How to reach me alokkiran777@gmail.com
 
 <!---
