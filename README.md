@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alok-kiran
-- 👀 I’m interested in mobile development 
+- 👀 I’m front end developer 
 - 📫 How to reach me alokkiran777@gmail.com
 
 <!---
