@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @alok-kiran
-- 👀 I’m full stack developer 
-- 📫 How to reach me alokkiran777@gmail.com
